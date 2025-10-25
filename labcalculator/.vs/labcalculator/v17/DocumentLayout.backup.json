@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\lab c#\\labcalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4F218D-AF96-4489-B297-016E4E3F84C8}|labcalculator\\labcalculator.csproj|h:\\lab c#\\labcalculator\\labcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4F218D-AF96-4489-B297-016E4E3F84C8}|labcalculator\\labcalculator.csproj|solutionrelative:labcalculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4F218D-AF96-4489-B297-016E4E3F84C8}|labcalculator\\labcalculator.csproj|h:\\lab c#\\labcalculator\\labcalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA4F218D-AF96-4489-B297-016E4E3F84C8}|labcalculator\\labcalculator.csproj|solutionrelative:labcalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\lab c#\\labcalculator\\labcalculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "labcalculator\\MainWindow.xaml",
+              "ToolTip": "H:\\lab c#\\labcalculator\\labcalculator\\MainWindow.xaml",
+              "RelativeToolTip": "labcalculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-25T15:18:52.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\lab c#\\labcalculator\\labcalculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "labcalculator\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\lab c#\\labcalculator\\labcalculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "labcalculator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv5YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:18:51.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

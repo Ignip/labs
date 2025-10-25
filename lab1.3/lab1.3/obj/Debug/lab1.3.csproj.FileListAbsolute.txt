@@ -1,0 +1,45 @@
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\bin\Debug\lab1.3.exe.config
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\bin\Debug\lab1.3.exe
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\bin\Debug\lab1.3.pdb
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.AssemblyReference.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\MainWindow.g.cs
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\App.g.cs
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3_MarkupCompile.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3_MarkupCompile.lref
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\MainWindow.baml
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.g.resources
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1._3.Properties.Resources.resources
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.GenerateResource.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.exe
+C:\Users\Татьяна\OneDrive\Рабочий стол\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.pdb
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\bin\Debug\lab1.3.exe.config
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\bin\Debug\lab1.3.exe
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\bin\Debug\lab1.3.pdb
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.AssemblyReference.cache
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\MainWindow.g.cs
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\App.g.cs
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3_MarkupCompile.cache
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3_MarkupCompile.lref
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\MainWindow.baml
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.g.resources
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1._3.Properties.Resources.resources
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.GenerateResource.cache
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.CoreCompileInputs.cache
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.exe
+C:\Users\mm789\Desktop\лабы для шарпа\lab1.3\lab1.3\obj\Debug\lab1.3.pdb
+H:\lab c#\lab1.3\lab1.3\bin\Debug\lab1.3.exe.config
+H:\lab c#\lab1.3\lab1.3\bin\Debug\lab1.3.exe
+H:\lab c#\lab1.3\lab1.3\bin\Debug\lab1.3.pdb
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.AssemblyReference.cache
+H:\lab c#\lab1.3\lab1.3\obj\Debug\MainWindow.g.cs
+H:\lab c#\lab1.3\lab1.3\obj\Debug\App.g.cs
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3_MarkupCompile.cache
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3_MarkupCompile.lref
+H:\lab c#\lab1.3\lab1.3\obj\Debug\MainWindow.baml
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3.g.resources
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1._3.Properties.Resources.resources
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.GenerateResource.cache
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3.csproj.CoreCompileInputs.cache
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3.exe
+H:\lab c#\lab1.3\lab1.3\obj\Debug\lab1.3.pdb

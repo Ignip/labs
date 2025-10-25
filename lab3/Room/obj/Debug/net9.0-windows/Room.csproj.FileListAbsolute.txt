@@ -1,0 +1,11 @@
+H:\lab c#\lab3\Room\bin\Debug\net9.0-windows\Room.deps.json
+H:\lab c#\lab3\Room\bin\Debug\net9.0-windows\Room.dll
+H:\lab c#\lab3\Room\bin\Debug\net9.0-windows\Room.pdb
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\Room.GeneratedMSBuildEditorConfig.editorconfig
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\Room.AssemblyInfoInputs.cache
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\Room.AssemblyInfo.cs
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\Room.csproj.CoreCompileInputs.cache
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\Room.dll
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\refint\Room.dll
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\Room.pdb
+H:\lab c#\lab3\Room\obj\Debug\net9.0-windows\ref\Room.dll
